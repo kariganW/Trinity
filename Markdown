@@ -1,0 +1,14 @@
+```markdown
+# Trinity - Interactive (starter)
+
+This branch contains a starter Vite + React + Tailwind project wired to Supabase.
+
+How to run:
+1. Copy `.env.example` to `.env` and set your Supabase project values.
+2. npm install
+3. npm run dev
+
+Notes:
+- This is a minimal scaffold with auth (magic link) and placeholder map/chat pages.
+- Next steps: add DB schema for characters, map, treasures, training logic, and realtime chat.
+```
